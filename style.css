@@ -23,16 +23,3 @@ section {
 #about {
     padding-top: 5rem;
 }
-
-}
-/* CSS untuk layar desktop atau tablet */
-.your-element {
-  /* properti gaya Anda */
-}
-
-/* CSS untuk layar ponsel */
-@media only screen and (max-width: 767px) {
-  .navbar {
-    display: none; /* atau atur properti lainnya untuk mengubah tampilan */
-  }
-}
